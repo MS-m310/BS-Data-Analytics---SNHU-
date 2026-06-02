@@ -9,7 +9,8 @@ Debido al tamaño de algunos archivos (imágenes, presentaciones o PDF), el cont
 ---
 
 ## 📖 Unidad 1: 1. INTRODUCCIÓN A LA HISTORIA DEL ARTE
-Acerca de esta unidad
+Acerca de esta unidad:
+
 Describirás los fundamentos de la historia del arte y los métodos utilizados para evaluar las obras de arte mediante:
 
 Describir conceptos y temas relacionados con la historia del arte.
@@ -18,7 +19,9 @@ Identificación de diferentes medios en la historia del arte.
 Reconocer los elementos formales del arte.
 
 ## 🏛️ Unidad 2: ARTE ANTIGUO DEL MEDITERRÁNEO Y DEL CERCANO ORIENTE
-Acerca de esta unidad
+
+Acerca de esta unidad:
+
 Analizarás diversas obras de arte antiguo del Mediterráneo y del Cercano Oriente mediante:
 
 Determinar la importancia cultural e histórica del arte desde la prehistoria hasta el antiguo Cercano Oriente.
@@ -27,7 +30,9 @@ Identificación de elementos importantes del arte y la arquitectura del Egeo y d
 Descripción de los estilos artísticos y arquitectónicos de los romanos y los etruscos.
 
 ## 🕍 Unidad 3: Arte medieval (Bizantino, Románico y Gótico)
-Acerca de esta unidad
+
+Acerca de esta unidad:
+
 Reconocerás características o formas de identificar el arte europeo primitivo hasta el inicio del Renacimiento mediante:
 
 Evaluación del arte y la arquitectura del cristianismo primitivo y la cultura bizantina.
@@ -35,7 +40,9 @@ Identificación de las características del arte y la arquitectura de los period
 Análisis de elementos del arte y la arquitectura de los periodos gótico tardío y renacentista temprano en Italia y el norte de Europa.
 
 ## 🎨 Unidad 4: Renacimiento al Barroco
-Acerca de esta unidad
+
+Acerca de esta unidad:
+
 Comprenderás el significado cultural de las obras de arte de diferentes regiones del mundo antes del contacto con los europeos mediante:
 
 Analizando los logros artísticos y arquitectónicos de la antigua India y la influencia del budismo en el arte indio.
