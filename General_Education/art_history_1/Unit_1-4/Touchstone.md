@@ -83,13 +83,13 @@ In conclusion, the Pantheon and Florence Cathedral demonstrate how architectural
 
 ## 📚 References
 
-Sophia Learning. (s.f.). *The Pantheon*. History of Art I, Unit 2.4.6. [https://app.sophia.org/](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit2/14737/the-pantheon-6)
+Sophia Learning. (n.d.). *The Pantheon*. History of Art I, Unit 2.4.6. [https://app.sophia.org](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit2/14737/the-pantheon-6)
 
-Sophia Learning. (s.f.). *Florence Cathedral*. History of Art I, Unit 3.3.5. [https://app.sophia.org/](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit3/14915/early-renaissance-architecture-5)
+Sophia Learning. (n.d.). *Florence Cathedral*. History of Art I, Unit 3.3.5. [https://app.sophia.org](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit3/14915/early-renaissance-architecture-5)
 
-Sophia Learning. (s.f.). *The Great Stupa of Sanchi*. History of Art I, Unit 4.1.3. [https://app.sophia.org/](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit4/14954/the-great-stupa-at-sanchi-6)
+Sophia Learning. (n.d.). *The Great Stupa of Sanchi*. History of Art I, Unit 4.1.3. [https://app.sophia.org](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit4/14954/the-great-stupa-at-sanchi-6)
 
-Sophia Learning. (s.f.). *San Vitale and Byzantine Art*. History of Art I, Unit 3.1.5. [https://app.sophia.org/](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit3/14668/byzantine-art-and-architecture-6)
+Sophia Learning. (n.d.). *San Vitale and Byzantine Art*. History of Art I, Unit 3.1.5. [https://app.sophia.org](https://app.sophia.org/spcc/art-history-i-2/study-guide/unit3/14668/byzantine-art-and-architecture-6)
 
 ---
 
