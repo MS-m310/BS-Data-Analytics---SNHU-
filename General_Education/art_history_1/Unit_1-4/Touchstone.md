@@ -16,7 +16,7 @@ The **Pantheon in Rome** is one of the most important examples of Roman architec
 Pantheon
 Rome, Italy
 113–125 CE
-Concrete and stone](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pantheon_Rome_2013.jpg/1024px-Pantheon_Rome_2013.jpg)
+Concrete and stone](General_Education/art_history_1/Unit_1-4/AHI511.jpeg)
 
 
 ---
@@ -48,7 +48,7 @@ The **Great Stupa of Sanchi** is one of the most important Buddhist monuments in
 The Great Stupa
 Sanchi, Madhya Pradesh, India
 3rd century BCE
-Dirt burial mound faced with stone](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pantheon_Rome_2013.jpg/1024px-Pantheon_Rome_2013.jpg)
+Dirt burial mound faced with stone](General_Education/art_history_1/Unit_1-4/AHI364.jpg)
 
 
 ---
