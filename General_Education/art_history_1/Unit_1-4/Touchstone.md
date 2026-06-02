@@ -1,4 +1,4 @@
-# 🏛️ Touchstone 4: Art and Architecture — Culture, Innovation, and Religious Ideals
+# 🏛️ Touchstone 1: Art and Architecture — Culture, Innovation, and Religious Ideals
 
 ## **Introduction**
 
@@ -8,7 +8,7 @@ Art and architecture reflect the cultural values, technological advances, and re
 
 ## **Innovation**
 
-The **Pantheon in Rome** is one of the most important examples of Roman architectural innovation. Built during the reign of Emperor Hadrian, it combines a traditional Greek-style portico with a revolutionary circular rotunda. Its most significant innovation is the massive unreinforced concrete dome, which remains the largest of its kind. The oculus at the center not only reduces structural weight but also creates a symbolic connection between the interior space and the heavens. According to Sophia Learning, the Pantheon represents a transformation of earlier Greek temple design into a unified interior space focused on experiential architecture rather than exterior appearance (Sophia Learning, s.f., Unit 2.4.6).
+The **Pantheon in Rome** is one of the most important examples of Roman architectural innovation. Built during the reign of Emperor Hadrian, it combines a traditional Greek-style portico with a revolutionary circular rotunda. Its most significant innovation is the massive unreinforced concrete dome, which remains the largest of its kind. The oculus at the center not only reduces structural weight but also creates a symbolic connection between the interior space and the heavens. According to Sophia Learning, the Pantheon represents a transformation of earlier Greek temple design into a unified interior space focused on experiential architecture rather than exterior appearance (Sophia Learning, n.d., Unit 2.4.6).
 
 ---
 
@@ -21,7 +21,7 @@ Concrete and stone](General_Education/art_history_1/Unit_1-4/AHI364.jpeg)
 
 ---
 
-The **Florence Cathedral**, designed during the Early Renaissance, represents another major architectural innovation. Filippo Brunelleschi solved the long-standing engineering challenge of covering the cathedral’s enormous crossing by designing a double-shell dome that was self-supporting. This approach eliminated the need for wooden scaffolding and reduced structural stress. Brunelleschi drew inspiration from Roman architecture, especially domes like the Pantheon, but combined this influence with new mathematical and engineering principles, reflecting the Renaissance emphasis on scientific reasoning and classical revival (Sophia Learning, s.f., Unit 3.3.5).
+The **Florence Cathedral**, designed during the Early Renaissance, represents another major architectural innovation. Filippo Brunelleschi solved the long-standing engineering challenge of covering the cathedral’s enormous crossing by designing a double-shell dome that was self-supporting. This approach eliminated the need for wooden scaffolding and reduced structural stress. Brunelleschi drew inspiration from Roman architecture, especially domes like the Pantheon, but combined this influence with new mathematical and engineering principles, reflecting the Renaissance emphasis on scientific reasoning and classical revival (Sophia Learning, n.d., Unit 3.3.5).
 
 ---
 
@@ -40,7 +40,7 @@ When comparing these two works, both demonstrate innovation rooted in earlier tr
 
 ## **Religious Expression**
 
-The **Great Stupa of Sanchi** is one of the most important Buddhist monuments in India. Built under Emperor Ashoka, it serves as a sacred reliquary and a symbolic representation of the Buddhist universe. The structure is designed for circumambulation, allowing worshippers to walk around it as a meditative ritual. Importantly, the Buddha is not depicted in human form; instead, he is represented through symbols such as footprints and wheels, reflecting early Buddhist aniconic tradition and the belief in transcendence beyond physical form (Sophia Learning, s.f., Unit 4.1.3).
+The **Great Stupa of Sanchi** is one of the most important Buddhist monuments in India. Built under Emperor Ashoka, it serves as a sacred reliquary and a symbolic representation of the Buddhist universe. The structure is designed for circumambulation, allowing worshippers to walk around it as a meditative ritual. Importantly, the Buddha is not depicted in human form; instead, he is represented through symbols such as footprints and wheels, reflecting early Buddhist aniconic tradition and the belief in transcendence beyond physical form (Sophia Learning, n.d., Unit 4.1.3).
 
 ---
 
@@ -53,7 +53,7 @@ Dirt burial mound faced with stone](General_Education/art_history_1/Unit_1-4/AHI
 
 ---
 
-The **Basilica of San Vitale** in Ravenna is a key example of Byzantine Christian art and architecture. Its centralized plan and richly decorated mosaics create a highly spiritual environment. The images of Emperor Justinian and Empress Theodora emphasize the connection between political authority and divine power, presenting the emperor as God’s representative on Earth. The stylized figures, gold backgrounds, and frontal compositions are intended not to represent physical reality but to communicate spiritual truth and divine order (Sophia Learning, s.f., Unit 3.1.5).
+The **Basilica of San Vitale** in Ravenna is a key example of Byzantine Christian art and architecture. Its centralized plan and richly decorated mosaics create a highly spiritual environment. The images of Emperor Justinian and Empress Theodora emphasize the connection between political authority and divine power, presenting the emperor as God’s representative on Earth. The stylized figures, gold backgrounds, and frontal compositions are intended not to represent physical reality but to communicate spiritual truth and divine order (Sophia Learning, n.d., Unit 3.1.5).
 
 ---
 
