@@ -61,7 +61,13 @@ The **Basilica of San Vitale** in Ravenna is a key example of Byzantine Christia
 Basilica of San Vitale
 Ravenna, Italy
 526–547 CE
-Terracotta and fresco](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pantheon_Rome_2013.jpg/1024px-Pantheon_Rome_2013.jpg)
+Terracotta and fresco](General_Education/art_history_1/Unit_1-4/AHI408.jpeg
+
+![Artist unknown
+The Presbytery of Basilica of San Vitale
+Ravenna, Italy
+527 - 548 CE
+Mosaic](General_Education/art_history_1/Unit_1-4/AHI409.jpeg
 
 ---
 
