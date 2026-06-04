@@ -13,8 +13,7 @@ Art and architecture have always reflected the beliefs, values, and achievements
 Pantheon
 Rome, Italy
 113–125 CE
-Concrete and Stone]
-(/AHI364.jpg)
+Concrete and Stone](General_Education/art_history_1/Unit_1-4/AHI364.jpg)
 
 The Pantheon in Rome is one of the greatest examples of innovation in Roman architecture. It was built during the reign of Emperor Hadrian between 117 and 125 CE using concrete and stone (Sophia Learning, n.d.). The structure combines a Greek-style temple front with a Roman rotunda and dome, showing how Roman architects built upon earlier Greek traditions while creating something new. The Corinthian columns on the exterior reflect Greek influence, while the massive dome demonstrates Roman engineering skill.
 The most innovative feature of the Pantheon is its concrete dome. According to the tutorial, the dome would not have been possible without Roman concrete technology (Sophia Learning, n.d.). Engineers reduced the weight by using heavier stone near the base and lighter volcanic pumice near the top. The dome also becomes thinner as it rises upward. In addition, the coffers and central oculus reduced weight while also creating a symbolic connection to the heavens. The Romans designed the interior so that a perfect sphere could fit inside the building, representing harmony between earth and the sky (Sophia Learning, n.d.). These engineering techniques allowed the Pantheon to become the largest unreinforced concrete dome ever built.
