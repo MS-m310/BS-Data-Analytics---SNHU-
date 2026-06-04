@@ -20,11 +20,11 @@ The most innovative feature of the Pantheon is its concrete dome. According to t
 
 ### The Florence Cathedral
 
-![Artist unknown
-The Presbytery of Basilica of San Vitale
-Ravenna, Italy
-527 - 548 CE
-Mosaic](Unit_1-4/AHI409.jpeg)
+![Filippo Brunelleschi, Arnolfo di Cambio, Francesco Talenti, Emilio De Fabris
+Cathedral of Santa Maria del Fiore (Florence Cathedral)
+Florence, Italy
+1296 - 1436 CE
+Marble and brick](Unit_1-4/AHI470.jpeg)
 
 
 Another important example of innovation is the Florence Cathedral in Italy. The cathedral was built between 1296 and 1436 CE, and its dome was designed by Filippo Brunelleschi (Sophia Learning, n.d.). Brunelleschi faced the challenge of covering a massive open space that many builders believed was impossible to complete. Instead of using traditional Gothic methods alone, he developed new building techniques inspired by earlier architectural forms.
@@ -52,7 +52,11 @@ The structure itself reflects Buddhist spiritual beliefs and meditation practice
 Basilica of San Vitale
 Ravenna, Italy
 526–547 CE
-Terracotta and fresco](Unit_1-4/AHI408.jpeg)
+Terracotta and fresco](Unit_1-4/AHI408.jpeg)![Artist unknown
+The Presbytery of Basilica of San Vitale
+Ravenna, Italy
+527 - 548 CE
+Mosaic](Unit_1-4/AHI409.jpeg)
 
 The Basilica of San Vitale in Ravenna, Italy, is another important example of religious expression, but from the Byzantine Christian tradition. Built between 526 and 547 CE, the church is famous for its mosaics and centralized design (Sophia Learning, n.d.). While the exterior appears simple, the interior is covered with colorful mosaics that reflect the glory of Christianity and the authority of the Byzantine Empire.
 The mosaics of Emperor Justinian and Empress Theodora are especially important because they combine religion and politics. Justinian is shown with a halo and religious objects, symbolizing his role as both emperor and representative of Christ on earth (Sophia Learning, n.d.). The figures are shown in the Byzantine style with almond-shaped eyes, elongated bodies, and flat space. These stylistic choices were meant to emphasize spirituality instead of realism.
