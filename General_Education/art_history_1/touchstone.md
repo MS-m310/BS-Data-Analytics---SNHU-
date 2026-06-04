@@ -40,7 +40,7 @@ Both the Pantheon and Florence Cathedral represent major architectural achieveme
 The Great Stupa
 Sanchi, Madhya Pradesh, India
 3rd century BCE
-Dirt burial mound faced with stone](Unit_1-4/AHI511.jpg)
+Dirt burial mound faced with stone](Unit_1-4/AHI511.jpeg)
 
 The Great Stupa at Sanchi in India is an important example of Buddhist religious expression. Originally built during the reign of King Ashoka in the third century BCE, the stupa was created to hold sacred Buddhist relics connected to the Buddha (Sophia Learning, n.d.). Unlike many later religious artworks, the Buddha is not shown in human form. Instead, artists used symbolic imagery such as wheels and sacred spaces because early Buddhists believed the Buddha had transcended physical form after enlightenment (Sophia Learning, n.d.).
 
